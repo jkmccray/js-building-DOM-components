@@ -1,8 +1,8 @@
-.notPassing {
+.failing {
   color: red;
-  text-emphasis: italic;
+  font-style: italic;
 }
 
 .student {
-  
+  text-emphasis: bold;
 }
